@@ -1,2 +1,3 @@
 # PROYECT-9-TN
 CONECTAR CON PROCESADOR DE TEXTO GOOGLE
+[[MANUAL-REGISTRO-DE-INASISTENCIA](https://docs.google.com/document/d/1b-0EVfvS824LXTWS6x5miFZ5qcl8KvauSKBgNRj3zMo/edit?usp=sharing)]
